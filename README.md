@@ -11,9 +11,9 @@ The file `castles.json` should contain the following when you first copy this re
 
 ```json
 
-{ 'First_L' : 
+{ "First_L" : 
   { 
-    '0822' : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "0822' : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     '0823' : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     '0824' : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     '0825' : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
